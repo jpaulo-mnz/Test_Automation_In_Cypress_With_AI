@@ -1,6 +1,16 @@
-# Desafio técnico QualityMap
+# AUTOMAÇÃO DE TESTES EM CYPRESS COM IA
+Este projeto tem como objetivo principal mostrar de que forma a utilização de Inteligências Artificiais Generativas (IAs) pode impulsionar a eficiência dos procedimentos inerentes aos testes de software e à garantia de qualidade. Por meio de uma abordagem prática e demonstrativa, destacamos como as atividades fundamentais, como a modelagem de casos de teste, a automação de testes e o desenvolvimento contínuo de scripts de automação, podem ser otimizados com o suporte das IAs. Ao longo do projeto, exploramos casos de uso específicos, ilustrando como essas tecnologias podem ser integradas de forma sinérgica ao ciclo de vida do desenvolvimento de software, resultando em processos mais eficientes, maior confiabilidade e uma redução significativa no tempo e esforço dedicados aos testes de software.
 
-Esse projeto de automação de testes faz parte de um desafio técnico da empresa QualityMap para uma vaga de QA Senior.
+## ✨ IAs usadas no projeto
+
+**Open AI Chat GPT**
+<br>
+O ChatGPT4, desenvolvido pela OpenAI, representa a vanguarda da inteligência artificial no campo dos modelos de linguagem. Ele é construído com base em técnicas de machine learning de ponta e foi treinado em vastos conjuntos de dados, permitindo-lhe compreender e gerar texto com uma precisão e nuance sem precedentes. Além de ser uma maravilha tecnológica por si só, o ChatGPT4 pode ser transformado em uma ferramenta inestimável para uma variedade de profissionais, em especial aqueles que trabalham na área de teste de software. 
+<br>
+
+**GitHub Copilot**
+<br>
+GitHub Copilot é um programador de pares de IA que ajuda você a escrever código com mais rapidez e menos trabalho. Ele extrai contexto de comentários e código para sugerir linhas individuais e funções inteiras instantaneamente. GitHub Copilot é alimentado por um modelo generativo de IA desenvolvido por GitHub, OpenAI e Microsoft. Ele está disponível como uma extensão para Visual Studio Code, Visual Studio, Neovim e o conjunto JetBrains de ambientes de desenvolvimento integrados (IDEs).
 
 ## 🎯Projeto Front-End (Website nopCommerce)
 
